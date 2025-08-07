@@ -11,12 +11,12 @@
 ##  GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Steveterence237&show_icons=true&theme=blueberry&border_radius=10" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steveterence237&layout=compact&theme=blueberry&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=steveterence237&show_icons=true&theme=blueberry&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steveterence237&layout=compact&theme=blueberry&border_radius=10" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Steveterence237&theme=blueberry&hide_border=false" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=steveterence237&theme=blueberry&hide_border=false" height="150"/>
 </p>
 
 ---
@@ -58,11 +58,11 @@
   Merci pour votre visite !  | Thanks for visiting! 
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Steveterence237&show_icons=true&theme=blueberry&border_radius=10" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steveterence237&layout=compact&theme=blueberry&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=steveterence237&show_icons=true&theme=blueberry&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steveterence237&layout=compact&theme=blueberry&border_radius=10" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Steveterence237&theme=blueberry&hide_border=false" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=steveterence237&theme=blueberry&hide_border=false" height="150"/>
 </p>
-<img src="https://streak-stats.demolab.com/?user=Steveterence237&theme=blueberry&hide_border=false" height="150"/>
+<img src="https://streak-stats.demolab.com/?user=steveterence237&theme=blueberry&hide_border=false" height="150"/>
